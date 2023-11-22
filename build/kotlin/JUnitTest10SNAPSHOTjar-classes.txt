@@ -1,0 +1,1 @@
+D:\project\Tasks-and-autotests\build\classes\kotlin\main\JoeRevolver.class;D:\project\Tasks-and-autotests\build\classes\kotlin\main\Joe_s_revolverKt.class;D:\project\Tasks-and-autotests\build\classes\kotlin\main\MainKt.class;D:\project\Tasks-and-autotests\build\classes\kotlin\main\Solution.class
